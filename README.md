@@ -1,16 +1,16 @@
-### Hi there 👋
 
-<!--
-**gefymarcos/gefymarcos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2>
+  Hello! <img src="https://raw.githubusercontent.com/wdtamagi/wdtamagi/main/hand.gif" width="50">
+</h2>
 
-Here are some ideas to get you started:
+<p>
+  <em>
+  I'm Gefferson Marcos, and I'm a Senior Frontend Developer and I've been working in tech since 2013. 
+  </em>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##  Contacts
+
+[![Linkedin: gefy](https://img.shields.io/badge/gefferson--marcos-FE5F55?style=flat-square&logo=Linkedin&logoColor=fafafa&link=https://www.linkedin.com/in/geffersonmarcos/)](https://www.linkedin.com/in/geffersonmarcos/)
+
+[![Twitter: gefy](https://img.shields.io/badge/gefy--marcos-FE5F55?style=flat-square&logo=Twitter&logoColor=fafafa&link=https://www.linkedin.com/in/geffersonmarcos/)](https://www.linkedin.com/in/geffersonmarcos/)
