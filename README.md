@@ -13,4 +13,4 @@
 
 [![Linkedin: gefy](https://img.shields.io/badge/gefferson--marcos-FE5F55?style=flat-square&logo=Linkedin&logoColor=fafafa&link=https://www.linkedin.com/in/geffersonmarcos/)](https://www.linkedin.com/in/geffersonmarcos/)
 
-[![Twitter: gefy](https://img.shields.io/badge/gefy--marcos-FE5F55?style=flat-square&logo=Twitter&logoColor=fafafa&link=https://www.linkedin.com/in/geffersonmarcos/)](https://www.linkedin.com/in/geffersonmarcos/)
+[![Twitter: gefy](https://img.shields.io/badge/gefy--marcos-FE5F55?style=flat-square&logo=Twitter&logoColor=fafafa&link=https://www.twitter.com/gefymarcos/)](https://www.twitter.com/gefymarcos/)
