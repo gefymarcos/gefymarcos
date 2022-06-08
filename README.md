@@ -5,7 +5,7 @@
 
 <p>
   <em>
-  I'm Gefferson Marcos, and I'm a Frontend Developer and I've been working in tech since 2013. 
+  I'm Gefferson Marcos, and I'm a Tech Lead Frontend at StudioSol, working on projects with Cifra Club, Cifra Club Academy and PalcoMP3, I've been working in tech since 2013.
   </em>
 </p>
 
