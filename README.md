@@ -20,17 +20,6 @@
   </em>
 </p>
 
----
-
-## 🔧 Tech Stack  
-- **Frontend**: React.js, Next.js, Svelte, Tailwind
-- **Backend**: Node.js, Express, REST APIs
-- **State Management**: Redux, RTK Query
-- **Tooling**: Monorepos (npm workspaces, Lerna), Rollup, TypeScript
-- **Infra & DevOps**: Verdaccio (private npm), CI/CD pipelines
-
----
-
 ## 📢 Community & Events  
 - Organizer of **Front In Floripa**, one of the biggest frontend events in Brazil  
 - Speaker at meetups and conferences, sharing knowledge about **frontend architecture, performance, and tooling**  
