@@ -43,6 +43,4 @@
 
 ## 📬 Contato
 
-[![LinkedIn: Gefferson Marcos](https://img.shields.io/badge/Gefferson%20Marcos-FE5F55?style=flat-square\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/geffersonmarcos/)
-
-[![X: @gefymarcos](https://img.shields.io/badge/@gefymarcos-FE5F55?style=flat-square\&logo=x\&logoColor=white)](https://www.twitter.com/gefymarcos/)
+[LinkedIn: Gefferson Marcos](https://www.linkedin.com/in/geffersonmarcos/)
