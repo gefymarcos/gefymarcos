@@ -1,34 +1,48 @@
 <h2>
-  Hello! <img src="https://raw.githubusercontent.com/wdtamagi/wdtamagi/main/hand.gif" width="50">
+  Olá! <img src="https://raw.githubusercontent.com/wdtamagi/wdtamagi/main/hand.gif" width="50" alt="Acenando">
 </h2>
 
 <p>
   <em>
-  I'm Gefferson Marcos, a Head of Technology at a consulting company, leading development processes and structuring teams to deliver scalable solutions. With over a decade of experience in software development, working across multiple technologies.
+    Sou Gefferson Marcos, líder de tecnologia, engenheiro de software e empreendedor, com mais de 15 anos de experiência na criação de produtos digitais e liderança de equipes de desenvolvimento.
   </em>
 </p>
 
 <p>
   <em>
-  I have built high-scale applications handling millions of users, developed internal libraries, and designed monorepos for frontend teams.  
+    Ao longo da minha carreira, trabalhei em plataformas de grande escala utilizadas por milhões de pessoas, desenvolvi arquiteturas, bibliotecas e soluções voltadas à escalabilidade e à manutenibilidade de software.
   </em>
 </p>
 
 <p>
   <em>
-  Beyond coding, I organize tech meetups, contribute to the developer community, and enjoy mentoring engineers to grow in their careers.
+    Também já ajudei mais de 30 startups a transformarem ideias em produtos reais, passando pelas etapas de discovery, planejamento técnico, desenvolvimento, lançamento e validação no mercado.
   </em>
 </p>
 
-## 📢 Community & Events  
-- Organizer of **Front In Floripa**, one of the biggest frontend events in Brazil  
-- Speaker at meetups and conferences, sharing knowledge about **frontend architecture, performance, and tooling**  
-- Passionate about **open-source** and best practices in software development  
+<p>
+  <em>
+    Atualmente, combino tecnologia, produto e negócios como fundador da <strong>Evora</strong>, uma plataforma SaaS criada para ajudar salões de beleza a automatizarem sua operação e a comunicação com seus clientes.
+  </em>
+</p>
 
----
+## 🚀 Áreas de atuação
 
-## 📬 Contacts  
+* Arquitetura e liderança técnica
+* Tecnologias web modernas
+* Aplicações escaláveis, system design e ferramentas internas
+* Desenvolvimento de produtos, estratégia técnica e estruturação de equipes
+* SaaS, startups e validação de produtos
 
-[![Linkedin: gefy](https://img.shields.io/badge/gefferson--marcos-FE5F55?style=flat-square&logo=Linkedin&logoColor=fafafa&link=https://www.linkedin.com/in/geffersonmarcos/)](https://www.linkedin.com/in/geffersonmarcos/)
+## 📢 Comunidade e eventos
 
-[![Twitter: gefy](https://img.shields.io/badge/gefy--marcos-FE5F55?style=flat-square&logo=Twitter&logoColor=fafafa&link=https://www.twitter.com/gefymarcos/)](https://www.twitter.com/gefymarcos/)
+* Organizador do **Front In Floripa**, um dos principais eventos de frontend do Brasil
+* Fundador do **code4tuba**, comunidade de tecnologia do sul de Santa Catarina
+* Palestrante e mentor em tecnologia, arquitetura de software e empreendedorismo
+* Entusiasta de open source, compartilhamento de conhecimento e fortalecimento de comunidades de tecnologia
+
+## 📬 Contato
+
+[![LinkedIn: Gefferson Marcos](https://img.shields.io/badge/Gefferson%20Marcos-FE5F55?style=flat-square\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/geffersonmarcos/)
+
+[![X: @gefymarcos](https://img.shields.io/badge/@gefymarcos-FE5F55?style=flat-square\&logo=x\&logoColor=white)](https://www.twitter.com/gefymarcos/)
